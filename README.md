@@ -1,4 +1,4 @@
-![Python Peru](./assets/png/git-repository/gitlab-repository-header.png)
+![Python Peru](./assets/png/gitlab/readme-header.png)
 
 # Python Perú Art Work
 
